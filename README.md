@@ -122,8 +122,3 @@ The Tira Online E-Commerce Database Management System successfully demonstrates 
 - Mobile application integration
 
 ---
-
-## Author
-**Jenita Roselin**
-
-DBMS Mini Project
