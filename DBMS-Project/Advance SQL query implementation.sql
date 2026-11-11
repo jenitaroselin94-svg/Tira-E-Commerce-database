@@ -1,4 +1,3 @@
-
 SQL> SELECT
   2      Order_ID,
   3      Customer_ID,
